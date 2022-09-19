@@ -1,6 +1,6 @@
 
 
-import time
+import tim
 
 # importing datetime module for now()
 import datetime
